@@ -1,10 +1,10 @@
-# This is a test
+# Potential Enigma test 2
 
   ![License](https://img.shields.io/badge/License-MIT-<blue>)
 
   ## Description
 
-  A professional README generator
+  generates README files for projects
 
   ## Table of Contents
 
@@ -26,23 +26,23 @@
   
   To install the program, run the following command:
 
-  run npm install and answer prompts
+  to install, enter command npm install
 
   ## Usage
 
-  run node index.js
+  install inquirer first npm i inquirer@8.2.4 then run node index.js
   ## License
     
   License app is covered under the MIT license.
 
   ## Contributions
 
-  anybody can clone or fork this and use it to work on but I don't think its coded well
+  you can fork or clone repo to work on as your own repository, maybe you can make app run smoother
 
   ## Testing
   To test the app, run the following command:
 
-  node index.js and answer questions
+  run command node index.js
 
   ## Questions
 
@@ -50,5 +50,5 @@
   [ausbosspoland](https://github.com/ausbosspoland/)
 
   Email me with any questions here
-  austinjpoland311@gmail.com
+  austinjpoland@gmail.com
 
