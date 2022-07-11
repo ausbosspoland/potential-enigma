@@ -31,6 +31,12 @@
   ## Usage
 
   install inquirer first npm i inquirer@8.2.4 then run node index.js
+  
+  Watch these videos for a walkthrough:
+  https://drive.google.com/file/d/1Eyib_7kuUDu9KS8-ggnKUAF-D-H_RFh5/view
+  and
+  https://drive.google.com/file/d/1N4LS6B3Cwoan1n01ey0mt9r3FQowo4rj/view
+  
   ## License
     
   License app is covered under the MIT license.
